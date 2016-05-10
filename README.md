@@ -2,7 +2,7 @@
 
 A hobby project for an unattended solar-powered on-line radio receiver.
 
-This project aims to develop an autonomous solar-powered radio receiver utilising low-cost commertial off-the-shelf hardware to provide a WiFi-enabled listening access to the broad range of the radio frequency spectrum.
+This project aims to develop an autonomous solar-powered radio receiver utilising low-cost commercial off-the-shelf hardware to provide a WiFi-enabled listening access to the broad range of the radio frequency spectrum.
 
 Contents:
   * Raspberry Pi 3
