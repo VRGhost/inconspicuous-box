@@ -10,4 +10,5 @@ Contents:
   * [Generic RTL2832U dongle](http://drm.sourceforge.net/wiki/index.php/RTL2832U_Guidance)
   * [Funcube Dongle Pro+](http://www.funcubedongle.com/)
   * GPS receiver ([u-blox NEO-6M](https://www.u-blox.com/en/product/neo-6-series))
+  * Silica Gel
   * 28W Solar Panel
